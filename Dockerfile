@@ -12,6 +12,7 @@ RUN apk add --update --no-cache \
        bash \
        curl \
        wget \
+       zip \
        unzip \
        patch \
        nano \
